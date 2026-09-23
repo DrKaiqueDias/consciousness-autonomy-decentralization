@@ -1,6 +1,6 @@
 # Consciousness, Autonomy and Decentralization
 
-### Research by Kaique Dias De Assis Oliveira
+### Kaique Dias De Assis Oliveira
 
 **An analysis of levels of human development and Bitcoin as a rupture of the centralized financial system.**
 
@@ -8,7 +8,7 @@
 
 ## Research focus
 
-The paper connects a proposed three-level model of human consciousness with Bitcoin and financial decentralization. Its central theme is the movement from dependence on inherited structures toward autonomy and collective responsibility.
+In this paper, I explore the relationship between human development, autonomy and financial decentralization. I propose a three-level model of human consciousness and discuss Bitcoin in the context of dependence on established structures, individual autonomy and collective responsibility.
 
 ## Publication record
 
@@ -20,7 +20,7 @@ The paper connects a proposed three-level model of human consciousness with Bitc
 | Length | 13 pages |
 | DOI | 10.2139/ssrn.6439340 |
 
-Metadata and overview are based on the [SSRN record](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6439340). This repository is a research landing page with citation files. The manuscript remains available through SSRN; no PDF, empirical dataset or replication code is included here. SSRN availability is not a claim of journal peer review.
+The full paper is available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6439340). I keep the publication details and citation files here for reference.
 
 ## Cite this work
 
@@ -28,7 +28,7 @@ Use [CITATION.cff](CITATION.cff) or [citation.bib](citation.bib). Cite the paper
 
 ## Discussion
 
-Questions about the paper can be opened as GitHub issues. Please identify the relevant argument or page and distinguish interpretation from empirical evidence.
+If you'd like to discuss an argument in the paper, open an issue with the passage or page you're referring to. You can also reach me on [LinkedIn](https://www.linkedin.com/in/kaique-dias-541b23324).
 
 ## Rights
 
